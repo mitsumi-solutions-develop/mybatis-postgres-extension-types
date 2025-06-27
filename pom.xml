@@ -6,7 +6,7 @@
 
     <groupId>io.github.mitsumi-solutions-develop</groupId>
     <artifactId>mybatis-postgres-extension-types</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.0-alpha</version>
     <packaging>jar</packaging>
     <name>mybatis-postgres-extension-types</name>
     <description>mybatis extension types</description>
@@ -110,7 +110,7 @@
                 <configuration>
                     <publishingServerId>central</publishingServerId>
                     <autoPublish>true</autoPublish>
-                    <waitUntil>published</waitUntil>
+                    <waitUntil>publishing</waitUntil>
                 </configuration>
             </plugin>
             <plugin>
