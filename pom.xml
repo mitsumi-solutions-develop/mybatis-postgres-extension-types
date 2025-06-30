@@ -6,7 +6,7 @@
 
     <groupId>io.github.mitsumi-solutions-develop</groupId>
     <artifactId>mybatis-postgres-extension-types</artifactId>
-    <version>1.0.0-alpha</version>
+    <version>1.0.1</version>
     <packaging>jar</packaging>
     <name>mybatis-postgres-extension-types</name>
     <description>mybatis extension types</description>
